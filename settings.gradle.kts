@@ -14,6 +14,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "TourIA"
+rootProject.name = "TourIARoot"
 include(":TourIA")
 include(":shared")
